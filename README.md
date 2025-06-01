@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amish Lamsal (Asxy)</h1>
+<h3 align="center">A passionate Discord-Bot & Front-End Developer!</h3>
 
-<!--
-**asxy-dev/asxy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asxy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asxy-dev" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asxy-dev&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="200" src="https://imgs.search.brave.com/yIjdnxZQ11mbpzCvoaGyUan0v8iR8bPy6-0zAVArDCM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYmxlYWNo/LWFpemVuLWJsYWNr/LXBmcC1sOXQ3aGJh/YXJ0cDBhYnA2Lmdp/Zg.gif" />
+
+- 🔭 I’m currently working on [Coinflip Bot, Website](https://coinflipbot.netlify.app/)  
+- 🌱 I’m currently learning Python, Ruby, Go and Bash  
+- 👯 I’m looking to collaborate on Cloud Native Projects  
+- 🤝 I’m looking for help with DevOps  
+- 👨‍💻 All of my projects are available at [www.buildinprogress.com](http://www.buildinprogress.com)  
+- 💬 Ask me about Discord-Bots  
+- 📫 How to reach me: amish.buisness.mail@gmail.com  
+- ⚡ Dream Job: DevOps Engineer  
+
+<h3 align="left">Connect with me:</h3>
+
+<div align="left">
+  <a href="https://linkedin.com/in/amish lamsal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:amish.buisness.mail@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</div>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="35" />
+</div>
+
+<br/>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxy-dev&layout=compact&theme=radical" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asxy-dev&show_icons=true&theme=radical" />
+</p>
