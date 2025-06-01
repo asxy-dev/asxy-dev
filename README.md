@@ -9,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=asxy-dev&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
-<img align="right" height="200" src="https://imgs.search.brave.com/yIjdnxZQ11mbpzCvoaGyUan0v8iR8bPy6-0zAVArDCM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYmxlYWNo/LWFpemVuLWJsYWNr/LXBmcC1sOXQ3aGJh/YXJ0cDBhYnA2Lmdp/Zg.gif" />
+<img align="right" height="200" src="https://i.imgur.com/quPnIz7.png" />
 
 - 🔭 I’m currently working on [Coinflip Bot, Website](https://coinflipbot.netlify.app/)  
 - 🌱 I’m currently learning Python, Ruby, Go and Bash  
