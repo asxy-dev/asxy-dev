@@ -12,7 +12,7 @@
 <img align="right" height="200" src="https://imgs.search.brave.com/b3H93knKIoLGzNihnYAnsiMosxSLtcxu4_TuhRQsH-E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4z/ZC5pY29uc2NvdXQu/Y29tLzNkL2ZyZWUv/dGh1bWIvZnJlZS1n/b2xhbmctM2QtaWNv/bi1kb3dubG9hZC1p/bi1wbmctYmxlbmQt/ZmJ4LWdsdGYtZmls/ZS1mb3JtYXRzLS1n/b29nbGUtbG9nby1n/by1wcm9ncmFtbWlu/Zy1sYW5ndWFnZS1j/b2RpbmctbGFuZy1w/YWNrLWxvZ29zLWlj/b25zLTc1NzgwMDQu/cG5nP2Y9d2VicA" />
 
 - 🔭 I’m currently working on [Coinflip Bot, Website](https://coinflipbot.netlify.app/)  
-- 🌱 I’m currently learning Python, Ruby, Go and Bash  
+- 🌱 I’m currently learning Python, Go and Bash  
 - 👯 I’m looking to collaborate on Cloud Native Projects  
 - 🤝 I’m looking for help with DevOps  
 - 👨‍💻 All of my projects are available at [www.buildinprogress.com](http://www.buildinprogress.com)  
