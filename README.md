@@ -1,132 +1,181 @@
-<br clear="both">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amish;Go+Developer;DevOps+Enthusiast;Cloud+Engineer" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">A passionate Go developer from Nepal 🇳🇵</h3>
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=asxy-dev.asxy-dev&left_color=blueviolet&right_color=black&left_text=Profile%20View" />
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Amish Lamsal
+
+### 🚀 Go Developer | DevOps Enthusiast | Cloud Engineer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+with+Go;Automating+Infrastructure+with+DevOps;Exploring+Cloud+Native+Technologies;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=asxy-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://github.com/asxy-dev?tab=followers"><img src="https://img.shields.io/github/followers/asxy-dev?label=Followers&style=social" alt="GitHub Followers" /></a>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" height="200" src="https://imgs.search.brave.com/4-qIC8clFqbXvLiO1EbiYv0NxFuM23650R9qEJE5Nx4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjWEppZEhkMlpH/VjBNbkIwWTI5dGFY/SnZjR0ZxY0hvNE1E/aG1kbVZpWldsd1oy/WmpZWGQ0ZFNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif" />
+```go
+package main
 
-- 🎓 Student passionate about **DevOps** and **Cloud Technologies**
-- 🔭 Currently learning **AWS**, **Go**, and **Shell Scripting**
-- 🚀 Goal: Becoming a proficient **DevOps Engineer**
-- 💡 Love building scalable and efficient systems
-- 🌱 Always exploring new technologies and best practices
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/amish-lamsal-a86379369/)**
+type DevOpsEngineer struct {
+    Name           string
+    Location       string
+    Role           string
+    Languages      []string
+    Technologies   []string
+    Focus          []string
+    CurrentlyLearning []string
+}
 
-<br clear="both">
+func main() {
+    me := DevOpsEngineer{
+        Name:     "Amish Lamsal",
+        Location: "Nepal 🇳🇵",
+        Role:     "Go Developer & DevOps Enthusiast",
+        Languages: []string{"Go", "Python", "JavaScript", "C", "Bash"},
+        Technologies: []string{"AWS", "Docker", "Kubernetes", "Linux", "Git"},
+        Focus: []string{"Cloud Infrastructure", "CI/CD", "Automation", "Microservices"},
+        CurrentlyLearning: []string{"AWS Solutions Architecture", "Terraform", "Kubernetes"},
+    }
+}
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🎯 **Goal:** Becoming a proficient DevOps Engineer
+- 🔭 **Currently Working On:** Building scalable microservices with Go
+- 🌱 **Learning:** AWS, Kubernetes, Infrastructure as Code
+- 💼 **Looking For:** DevOps & Backend Engineering opportunities
+- 📚 **Interests:** Cloud Architecture, Automation, Container Orchestration
+- ⚡ **Fun Fact:** I automate everything, even my coffee maker (just kidding... or am I?)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
+
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=asxy-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asxy-dev&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asxy-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asxy-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxy-dev&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=asxy-dev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Professional Experience & Skills
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asxy-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxy-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<details>
+<summary><b>🔧 DevOps Pipeline</b></summary>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asxy-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
+- **Infrastructure as Code:** Terraform, CloudFormation
+- **Configuration Management:** Ansible
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Container Orchestration:** Kubernetes, Docker Swarm
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, ECS, RDS)
+
+</details>
+
+<details>
+<summary><b>💻 Backend Development</b></summary>
+<br>
+
+- **Go:** RESTful APIs, Microservices, Concurrency
+- **Python:** Automation Scripts, Data Processing
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **API Design:** REST, gRPC
+- **Testing:** Unit Testing, Integration Testing
+
+</details>
+
+<details>
+<summary><b>🎓 Certifications & Learning Path</b></summary>
+<br>
+
+- 📖 Currently pursuing AWS Solutions Architect certification
+- 🚀 Completed multiple DevOps and Go programming courses
+- 💡 Active contributor to open-source projects
+- 🎯 Building portfolio projects to demonstrate skills
+
+</details>
 
 ---
 
-### 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asxy-dev/asxy-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asxy-dev/asxy-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/asxy-dev/asxy-dev/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 🎧 Spotify Activity
+## 🎵 Currently Vibing To
 
 <div align="center">
   <a href="https://open.spotify.com/user/Asxy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Asxy&count=5&width=800" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Asxy&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 📫 Let's Connect
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asxy-dev/asxy-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-lamsal-a86379369/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/819947491755032616)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amiiish._/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-### 💼 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/amish-lamsal-a86379369/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/819947491755032616" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/amiiish._/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:lamsalamish11@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=asxy-dev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-</div>
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/asxy-dev">asxy-dev</a></i>
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Open to opportunities in DevOps Engineering, Backend Development, and Cloud Infrastructure roles.**
+
+### ⭐ From [asxy-dev](https://github.com/asxy-dev) with 💙
+
+*Last Updated: 2025*
+
 </div>
