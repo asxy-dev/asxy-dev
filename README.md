@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Amish Lamsal
 
-### 🚀 Go Developer | DevOps Enthusiast | Cloud Engineer
+### 🚀 Go Developer | DevOps Enthusiast | Student
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+with+Go;Automating+Infrastructure+with+DevOps;Exploring+Cloud+Native+Technologies;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
@@ -44,9 +44,9 @@ func main() {
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎯 **Goal:** Becoming a proficient DevOps Engineer
-- 🔭 **Currently Working On:** Building scalable microservices with Go
+- 🔭 **Currently Working On:** Diffrent projects to master go
 - 🌱 **Learning:** AWS, Kubernetes, Infrastructure as Code
-- 💼 **Looking For:** DevOps & Backend Engineering opportunities
+- 💼 **Looking For:** DevOps & Hackathon opportunities
 - 📚 **Interests:** Cloud Architecture, Automation, Container Orchestration
 - ⚡ **Fun Fact:** I automate everything, even my coffee maker (just kidding... or am I?)
 
@@ -68,16 +68,14 @@ func main() {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 ---
 
@@ -95,7 +93,7 @@ func main() {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asxy-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asxy-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
@@ -116,7 +114,7 @@ func main() {
 - **Configuration Management:** Ansible
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
 - **Container Orchestration:** Kubernetes, Docker Swarm
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, ECS, RDS)
+- **Cloud Platforms:** AWS 
 
 </details>
 
@@ -125,9 +123,9 @@ func main() {
 <br>
 
 - **Go:** RESTful APIs, Microservices, Concurrency
-- **Python:** Automation Scripts, Data Processing
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **API Design:** REST, gRPC
+- **Python:** Automation Scripts
+- **Databases:** MySQL, MongoDB
+- **API Design:** REST
 - **Testing:** Unit Testing, Integration Testing
 
 </details>
@@ -137,7 +135,7 @@ func main() {
 <br>
 
 - 📖 Currently pursuing AWS Solutions Architect certification
-- 🚀 Completed multiple DevOps and Go programming courses
+- 🚀 Completed multiple Go programming courses
 - 💡 Active contributor to open-source projects
 - 🎯 Building portfolio projects to demonstrate skills
 
@@ -145,15 +143,8 @@ func main() {
 
 ---
 
-## 🎵 Currently Vibing To
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Asxy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Asxy&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
 
----
 
 ## 📫 Let's Connect
 
@@ -162,7 +153,7 @@ func main() {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-lamsal-a86379369/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/819947491755032616)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amiiish._/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamsalamish5@gmail.com)
 
 </div>
 
@@ -174,7 +165,7 @@ func main() {
 
 **Open to opportunities in DevOps Engineering, Backend Development, and Cloud Infrastructure roles.**
 
-### ⭐ From [asxy-dev](https://github.com/asxy-dev) with 💙
+### From [asxy-dev](https://github.com/asxy-dev) with 💙
 
 *Last Updated: 2025*
 
