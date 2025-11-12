@@ -1,58 +1,69 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Amish Lamsal
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Amish Lamsal
 
-### 🚀 Go Developer | DevOps Enthusiast | Student
+### Go Developer | DevOps Engineer | Nepal 🇳🇵
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+with+Go;Automating+Infrastructure+with+DevOps;Exploring+Cloud+Native+Technologies;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=asxy-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<a href="https://github.com/asxy-dev?tab=followers"><img src="https://img.shields.io/github/followers/asxy-dev?label=Followers&style=social" alt="GitHub Followers" /></a>
+[![Profile Views](https://komarev.com/ghpvc/?username=asxy-dev&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/asxy-dev)
+[![GitHub Followers](https://img.shields.io/github/followers/asxy-dev?label=Followers&style=social)](https://github.com/asxy-dev?tab=followers)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-```go
-package main
-
-type DevOpsEngineer struct {
-    Name           string
-    Location       string
-    Role           string
-    Languages      []string
-    Technologies   []string
-    Focus          []string
-    CurrentlyLearning []string
-}
-
-func main() {
-    me := DevOpsEngineer{
-        Name:     "Amish Lamsal",
-        Location: "Nepal 🇳🇵",
-        Role:     "Go Developer & DevOps Enthusiast",
-        Languages: []string{"Go", "Python", "JavaScript", "C", "Bash"},
-        Technologies: []string{"AWS", "Docker", "Kubernetes", "Linux", "Git"},
-        Focus: []string{"Cloud Infrastructure", "CI/CD", "Automation", "Microservices"},
-        CurrentlyLearning: []string{"AWS Solutions Architecture", "Terraform", "Kubernetes"},
-    }
-}
-```
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🎯 **Goal:** Becoming a proficient DevOps Engineer
-- 🔭 **Currently Working On:** Diffrent projects to master go
-- 🌱 **Learning:** AWS, Kubernetes, Infrastructure as Code
-- 💼 **Looking For:** DevOps & Hackathon opportunities
-- 📚 **Interests:** Cloud Architecture, Automation, Container Orchestration
-- ⚡ **Fun Fact:** I automate everything, even my coffee maker (just kidding... or am I?)
+```yaml
+# system: developer-profile
+apiVersion: v1
+kind: Engineer
+metadata:
+  name: amish-lamsal
+  location: Nepal
+  role: Backend & Infrastructure
+  
+spec:
+  languages:
+    - go
+    - python
+    - javascript
+    - c
+    - bash
+  
+  infrastructure:
+    cloud: [aws]
+    containers: [docker, kubernetes]
+    automation: [terraform, github-actions]
+    systems: [linux, nginx]
+  
+  databases:
+    - postgresql
+    - mongodb
+    - redis
+  
+  current_focus:
+    - aws-solutions-architect
+    - kubernetes
+    - infrastructure-as-code
+  
+  interests:
+    - distributed-systems
+    - api-design
+    - automation
+    - cloud-architecture
+```
+
+**Working On:** Backend services in Go and infrastructure automation  
+**Learning:** AWS architecture, Kubernetes, Terraform  
+**Looking For:** Backend and DevOps opportunities
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Stack
+
+<div align="center">
 
 ### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -61,99 +72,61 @@ func main() {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### DevOps & Cloud
+### Infrastructure & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
-### Databases & Tools
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=asxy-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asxy-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asxy-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asxy-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxy-dev&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=asxy-dev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxy-dev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=asxy-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 💼 Professional Experience & Skills
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> What I Do
 
-<details>
-<summary><b>🔧 DevOps Pipeline</b></summary>
-<br>
+**Backend Development**
+- Build REST APIs and microservices with Go
+- Design and optimize database schemas
+- Write unit and integration tests
+- Handle concurrent systems and performance optimization
 
-- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
-- **Infrastructure as Code:** Terraform, CloudFormation
-- **Configuration Management:** Ansible
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
-- **Container Orchestration:** Kubernetes, Docker Swarm
-- **Cloud Platforms:** AWS 
-
-</details>
-
-<details>
-<summary><b>💻 Backend Development</b></summary>
-<br>
-
-- **Go:** RESTful APIs, Microservices, Concurrency
-- **Python:** Automation Scripts
-- **Databases:** MySQL, MongoDB
-- **API Design:** REST
-- **Testing:** Unit Testing, Integration Testing
-
-</details>
-
-<details>
-<summary><b>🎓 Certifications & Learning Path</b></summary>
-<br>
-
-- 📖 Currently pursuing AWS Solutions Architect certification
-- 🚀 Completed multiple Go programming courses
-- 💡 Active contributor to open-source projects
-- 🎯 Building portfolio projects to demonstrate skills
-
-</details>
+**Infrastructure & DevOps**
+- Set up CI/CD pipelines
+- Containerize applications with Docker
+- Deploy and manage Kubernetes clusters
+- Automate infrastructure with Terraform
+- Configure monitoring and logging
 
 ---
 
-
-
-
-## 📫 Let's Connect
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80px"> Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-lamsal-a86379369/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/819947491755032616)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amiiish._/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamsalamish5@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/819947491755032616)
 
 </div>
 
@@ -161,12 +134,8 @@ func main() {
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Open to opportunities in DevOps Engineering, Backend Development, and Cloud Infrastructure roles.**
 
-### From [asxy-dev](https://github.com/asxy-dev) with 💙
-
-*Last Updated: 2025*
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
